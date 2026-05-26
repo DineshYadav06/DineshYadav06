@@ -77,49 +77,12 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DineshYadav06&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshYadav06&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshYadav06&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-### 🤖 AI-Enhanced Cosmetic Product Selling Platform
-- AI-powered recommendation system
-- FastAPI scalable backend
-- AI Chatbot Integration
-- Personalized product suggestions
-
-### 😀 Emotion Recognition System
-- CNN-based facial emotion recognition
-- 89% model accuracy
-- Optimized inference speed
-- Real-time prediction support
-
-### 🐄 Cattle Breed Classification
-- Deep Learning + Computer Vision
-- Trained on large image datasets
-- Transfer Learning & Model Optimization
-
----
-
-# 🏆 Achievements
-
-- ✅ Built and trained models on **7000+ images**
-- ✅ Designed **12+ Deep Learning Models**
-- ✅ Achieved **0.90+ F1 Score**
-- ✅ Reduced model training time by **45%**
-- ✅ Built real-time AI inference systems
-
----
 
 # 📈 Contribution Graph
 
