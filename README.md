@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dinesh Kumar Yadav</h1>
-<h3 align="center">Backend Developer • AI/ML Enthusiast • FastAPI Developer 🚀</h3>
+<h1 align="center">Hi , I'm Dinesh Kumar Yadav</h1>
+<h3 align="center"> AI/ML • Enthusiast Backend Developer • FastAPI Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+from+India;FastAPI+%7C+Python+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Real-World+AI+Applications" />
@@ -9,14 +9,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 
-## 💫 About Me
+##  About Me
 
-- 🔭 Currently working on **AI & Backend Development**
-- 🌱 Learning **Advanced FastAPI, AI Systems & Scalable APIs**
-- 🤖 Passionate about **Artificial Intelligence & Computer Vision**
-- 💡 Love building **Real-World AI Applications**
-- ⚡ Focused on **Performance Optimization & Clean Backend Architecture**
-- 🎯 Goal: Become a top **Software Engineer & AI Developer**
+-  Currently working on **AI & Backend Development**
+- Learning **Advanced FastAPI, AI Systems & Scalable APIs**
+-  Passionate about **Artificial Intelligence & Computer Vision**
+-  Love building **Real-World AI Applications**
+-  Focused on **Performance Optimization & Clean Backend Architecture**
+-  Goal: Become a top **Software Engineer & AI Developer**
 
 ---
 
@@ -45,24 +45,19 @@
 
 # 💻 Tech Stack
 
-### 🚀 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
-</p>
-
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 ### 🤖 AI / Machine Learning
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 <p>
