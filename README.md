@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Dinesh Kumar Yadav</h1>
-<h3 align="center"> AI/ML • Enthusiast Backend Developer • FastAPI Developer </h3>
+<h3 align="center"> AI/ML • Enthusiast Backend Developer  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer+from+India;FastAPI+%7C+Python+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Real-World+AI+Applications" />
@@ -11,7 +11,7 @@
 
 ##  About Me
 
--  Currently working on **AI & Backend Development**
+-  Currently working on **AI, LLM & Backend Development**
 - Learning **Advanced FastAPI, AI Systems & Scalable APIs**
 -  Passionate about **Artificial Intelligence & Computer Vision**
 -  Love building **Real-World AI Applications**
