@@ -71,22 +71,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker" />
 </p>
 
----
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshYadav06&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshYadav06&theme=tokyo-night"/>
-</p>
-
----
 
 # ✨ Quote
 
